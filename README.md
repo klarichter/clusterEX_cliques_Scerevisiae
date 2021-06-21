@@ -7,6 +7,6 @@ The cliques have been obtained by using microarray data from public repositories
 
 Three types of tables can be found for download:
 
-    Full table of all experiments used to derive the network and the coexpression cliques
-    Full table of all genes and their association to specific cliques
+    Full table of all genes and their association to specific cliques (as .txt and as .gmx for GSEA)
     Full table of all cliques and their GO-term and transcription factor enrichment
+    
